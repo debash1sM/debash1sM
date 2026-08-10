@@ -1,14 +1,18 @@
 # Debashis Mondal
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-4B5563?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-4B5563?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 Software Engineer specializing in LLM systems, agentic AI, and applied ML/MLOps — building production systems that take language models from prototype to reliable, high-throughput serving.
 
 **Software Engineer L2 at Keross Research and Development**, Kolkata — production LLM agents, fine-tuning, and inference serving.
-
-<p align="center">
-  <a href="https://linkedin.com/in/idebashismondal/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:debashismondal205@outlook.com"><img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="48" height="48" alt="Outlook" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/debash1sM"><img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub" /></a>
-</p>
 
 ## What I work on
 
@@ -56,6 +60,7 @@ Software Engineer specializing in LLM systems, agentic AI, and applied ML/MLOps 
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 ![Langfuse](https://img.shields.io/badge/Langfuse-4B5563?style=flat-square)
 ![LangSmith](https://img.shields.io/badge/LangSmith-4B5563?style=flat-square)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-4B5563?style=flat-square)
 
 **Backend & APIs**
 
@@ -84,3 +89,9 @@ Software Engineer specializing in LLM systems, agentic AI, and applied ML/MLOps 
 ## Education
 
 MCA, Academy of Technology, Maulana Abul Kalam Azad University of Technology — CGPA 9.70/10
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idebashismondal/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:debashismondal205@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debash1sM)
